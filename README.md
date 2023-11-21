@@ -18,6 +18,8 @@ All of the web pages Pages in this Website are `.PHP` files. All Pages are Html 
 
 ## Documentation
 
+Before Using on The Index page the database might occasionally error out, if this happens just hit the search bar!
+
 
 - `insertFoods.php` Handles Adding New Food entries to the Database 
 
