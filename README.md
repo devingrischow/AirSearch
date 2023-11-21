@@ -6,7 +6,7 @@ About A Dynamically Driven Database Website built using PHP that displays variou
 ## Features
 
 - Sqlite Database 
-- PDO Connection Method
+- PDO Database Connection Method
 - Dynimcally add and see changes
 - Phone Supported
 
