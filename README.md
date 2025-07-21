@@ -1,7 +1,9 @@
 
 # AirSearch
 
-About A Dynamically Driven Database Website built using PHP that displays various Airfrier Recipes
+About A Dynamically Driven Database Website built using PHP that displays various Airfrier Recipes.
+
+This was my PHP class finale that I later hosted on a local server using XAMPP and Apache.
 
 ## Features
 
@@ -31,5 +33,3 @@ Before Using on The Index page the database might occasionally error out, if thi
 ## Authors
 
 - [@devingrischow](https://github.com/devingrischow)
-
-
